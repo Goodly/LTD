@@ -1,2 +1,6 @@
 pandas
-selenium
+datascience
+csv
+sqlite3
+flask
+json
