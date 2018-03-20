@@ -1,6 +1,5 @@
 pandas
 datascience
-csv
 sqlite3
 flask
 json
